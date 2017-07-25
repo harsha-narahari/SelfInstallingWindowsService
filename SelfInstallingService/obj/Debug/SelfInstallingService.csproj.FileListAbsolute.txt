@@ -1,0 +1,7 @@
+C:\Projects\Backup\Harsha\SelfInstallingService\SelfInstallingService\bin\Debug\SelfInstallingService.exe.config
+C:\Projects\Backup\Harsha\SelfInstallingService\SelfInstallingService\bin\Debug\SelfInstallingService.exe
+C:\Projects\Backup\Harsha\SelfInstallingService\SelfInstallingService\bin\Debug\SelfInstallingService.pdb
+C:\Projects\Backup\Harsha\SelfInstallingService\SelfInstallingService\obj\Debug\SelfInstallingService.exe
+C:\Projects\Backup\Harsha\SelfInstallingService\SelfInstallingService\obj\Debug\SelfInstallingService.pdb
+C:\Projects\Backup\Harsha\SelfInstallingService\SelfInstallingService\bin\Debug\log4net.dll
+C:\Projects\Backup\Harsha\SelfInstallingService\SelfInstallingService\bin\Debug\log4net.xml
